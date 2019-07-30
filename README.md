@@ -2,7 +2,7 @@
 
 This repo contains outputs from our Iowa, New Hampshire, and South Carolina Democratic Caucus/Primary Poll conducted April 30, 2019 - May 2, 2019.
 
-<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-July-2019/blob/master/Firehouse_0ptimus_July_2019_Methodology_Statement.pdf">Methodology Statement</a>
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-May-2019/blob/master/Firehouse_0ptimus_April_May_2019_Methodology_Statement.pdf">Methodology Statement</a>
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-May-2019/blob/master/FH_0ptimus_0502_IA_Toplines.pdf">IA Toplines</a>
 
